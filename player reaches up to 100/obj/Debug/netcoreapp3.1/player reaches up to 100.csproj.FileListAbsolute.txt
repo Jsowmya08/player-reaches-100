@@ -1,0 +1,13 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\bin\Debug\netcoreapp3.1\player reaches up to 100.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\bin\Debug\netcoreapp3.1\player reaches up to 100.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\bin\Debug\netcoreapp3.1\player reaches up to 100.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\bin\Debug\netcoreapp3.1\player reaches up to 100.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\bin\Debug\netcoreapp3.1\player reaches up to 100.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\bin\Debug\netcoreapp3.1\player reaches up to 100.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\obj\Debug\netcoreapp3.1\player reaches up to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\obj\Debug\netcoreapp3.1\player reaches up to 100.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\obj\Debug\netcoreapp3.1\player reaches up to 100.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\obj\Debug\netcoreapp3.1\player reaches up to 100.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\obj\Debug\netcoreapp3.1\player reaches up to 100.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\obj\Debug\netcoreapp3.1\player reaches up to 100.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\player reaches up to 100\player reaches up to 100\obj\Debug\netcoreapp3.1\player reaches up to 100.genruntimeconfig.cache
